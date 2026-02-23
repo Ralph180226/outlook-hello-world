@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Hello World Add-in</title>
+</head>
+<body>
+  <h1>Hello Outlook!</h1>
+  <p>Als je dit ziet, werkt je add-in 🎉</p>
+</body>
+</html>
